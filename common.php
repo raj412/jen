@@ -1,4 +1,6 @@
 <?php
+
+// change here 
 define("path_actual_user", "..");
 define("path_actual_admin", "../admin");
 if(dirname($_SERVER['PHP_SELF']) != "/"){
