@@ -1,6 +1,8 @@
 <?php
 
 // change here 
+
+//copy files
 define("path_actual_user", "..");
 define("path_actual_admin", "../admin");
 if(dirname($_SERVER['PHP_SELF']) != "/"){
